@@ -1,1 +1,6 @@
-
+apple,7
+banana,1
+orange,8
+grape,10
+pineapple,6
+stawberry,8
